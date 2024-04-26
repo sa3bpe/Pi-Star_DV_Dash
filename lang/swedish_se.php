@@ -3,7 +3,7 @@
 // Svenska SE Språkpaket
 // Henrik Persson (SA3BPE)
 // Skapad: 02-Sep-2022
-// Uppdaterad: 02-Sep-2022
+// Uppdaterad: 26-Apr-2024
 //
 $lang = array (
   // Banner texts
@@ -44,8 +44,8 @@ $lang = array (
   "cpu_load"                    =>  "CPU Last",
   "cpu_temp"                    =>  "CPU Temp",
   // Config Page - Control Software
-  "controller_software"         =>  "Controller Software",
-  "controller_mode"             =>  "Controller Mode",
+  "controller_software"         =>  "Kontroller Mjukvara",
+  "controller_mode"             =>  "Kontroller Mode",
   // Config Page - MMDVMHost Configuration
   "dmr_mode"                    =>  "DMR Mode",
   "d-star_mode"                 =>  "D-Star Mode",
